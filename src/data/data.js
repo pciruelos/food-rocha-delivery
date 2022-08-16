@@ -1,0 +1,100 @@
+export const data = [
+    {
+        id:1,
+        name:'Veggi Rocher',
+        categorty:'Sandwich',
+        image:'https://images.pexels.com/photos/1279330/pexels-photo-1279330.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
+        price:7.5,
+    },{
+        id:2,
+        name:'Pb special',
+        categorty:'Burger',
+        image:'https://images.pexels.com/photos/70497/pexels-photo-70497.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
+        price:9.5,
+    },{
+        id:3,
+        name:'Masco Jamon',
+        categorty:'Pizza',
+        image:'https://images.pexels.com/photos/376464/pexels-photo-376464.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
+        price:12.9,
+    },{
+        id:4,
+        name:'Saladnesa',
+        categorty:'Salad',
+        image:'https://images.pexels.com/photos/1161682/pexels-photo-1161682.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
+        price:12,
+    },{
+        id:5,
+        name:'Subway Copy',
+        categorty:'Sandwich',
+        image:'https://images.pexels.com/photos/2228559/pexels-photo-2228559.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
+        price:2.99,
+    },{
+        id:6,
+        name:'Doble queso',
+        categorty:'Burger',
+        image:'https://images.pexels.com/photos/1251198/pexels-photo-1251198.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
+        price:5.9,
+    },{
+        id:7,
+        name:'Muzza',
+        categorty:'Pizza',
+        image:'https://images.pexels.com/photos/365459/pexels-photo-365459.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
+        price:9.90,
+    },{
+        id:8,
+        name:'Rusa',
+        categorty:'Salad',
+        image:'https://images.pexels.com/photos/262897/pexels-photo-262897.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
+        price:9.90,
+    },{
+        id:9,
+        name:'Mila Vegana',
+        categorty:'Sandwich',
+        image:'https://images.pexels.com/photos/1765005/pexels-photo-1765005.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
+        price:7.5,
+    },{
+        id:10,
+        name:'Lentejas',
+        categorty:'Burger',
+        image:'https://images.pexels.com/photos/3026805/pexels-photo-3026805.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
+        price:12,
+    },{
+        id:11,
+        name:'Sin Tac',
+        categorty:'Pizza',
+        image:'https://images.pexels.com/photos/3756523/pexels-photo-3756523.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
+        price:13.9,
+    },{
+        id:12,
+        name:'De Frutas',
+        categorty:'Salad',
+        image:'https://images.pexels.com/photos/2116094/pexels-photo-2116094.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
+        price:8,
+    },{
+        id:13,
+        name:'Olimpo',
+        categorty:'Sandwich',
+        image:'https://images.pexels.com/photos/2664216/pexels-photo-2664216.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
+        price:5,
+    },{
+        id:14,
+        name:'Papa',
+        categorty:'Burger',
+        image:'https://images.pexels.com/photos/750073/pexels-photo-750073.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
+        price:10,
+    },{
+        id:15,
+        name:'Hummus',
+        categorty:'Pizza',
+        image:'https://images.pexels.com/photos/568370/pexels-photo-568370.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
+        price:15,
+    },{
+        id:16,
+        name:'Free',
+        categorty:'Salad',
+        image:'https://images.pexels.com/photos/3026808/pexels-photo-3026808.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
+        price:9.90,
+    },
+    
+]
